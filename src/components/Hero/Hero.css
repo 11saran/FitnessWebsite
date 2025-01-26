@@ -176,3 +176,10 @@
     color: white;
     font-size: 1.5rem;
 }
+
+
+.blur-hero{
+  width: 220rem;
+  height: 30rem;
+  left: 0;
+}

@@ -29,7 +29,7 @@
   transform: scale(1.1);
 }
 .plan > svg {
-  fill:var(--orange);
+  fill: var(--orange);
   width: 2rem;
   height: 2rem;
 }
@@ -65,9 +65,23 @@
   width: 1rem;
 }
 
-.plan:nth-child(2)>svg{
-    fill: white;
+.plan:nth-child(2) > svg {
+  fill: white;
 }
-.plan:nth-child(2)>button{
-   color: var(--orange);
+.plan:nth-child(2) > button {
+  color: var(--orange);
+}
+
+.blur-plans-1 {
+  width: 32rem;
+  height: 23rem;
+  top: 6rem;
+  left: 0rem;
+}
+
+.blur-plans-2 {
+  width: 32rem;
+  height: 23rem;
+  top: 10rem;
+  right: 0rem;
 }

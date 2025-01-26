@@ -6,6 +6,8 @@ import whiteTick from "./../../assets/whiteTick.png";
 function Plans() {
   return (
     <div className="plans-container">
+      <div className="blur blur-plans-1"></div>
+      <div className="blur blur-plans-2"></div>
       <div className="programs-header" style={{ gap: "2rem" }}>
         <span className="stroke-text">Ready to Start</span>
         <span>Your Journey</span>
